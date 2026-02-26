@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Gayathri Chilukala
-
+ 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;AI+Infrastructure+Specialist;Building+Scalable+AI+Systems)](https://git.io/typing-svg)
