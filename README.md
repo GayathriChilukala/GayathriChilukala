@@ -21,7 +21,7 @@ Currently a **Software Engineer (AI Solutions)** at **GEICO**, architecting prod
 
 ## 💼 Professional Experience
 
-### Software Engineer (AI Solutions) @ GEICO | January 2025 – Present
+### Software Engineer (AI Solutions) @ GEICO | January 2025 – May 2025
 
 ### AI & C++ Graduate Teaching Assistant @ Florida Atlantic University | January 2024 – December 2024
 
