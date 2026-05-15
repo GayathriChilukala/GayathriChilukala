@@ -118,7 +118,7 @@ SASTRA University, Tamil Nadu | GPA: 3.8/4.0 | June 2019 - June 2023
 
 <div align="center">
 
-### 💫 "The best way to predict the future is to invent it." - Alan Kay
+### 💫 “The best way to shape the future is not just to learn it—but to live it.” – Gayathri Chilukala
 
 **Let's build something amazing together!**
 
