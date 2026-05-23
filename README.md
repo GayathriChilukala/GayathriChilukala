@@ -8,18 +8,21 @@
 
 ## 🚀 About Me
 
-Currently a **Software Engineer (AI Solutions)** at **GEICO**, architecting production-grade LLM backend services and enterprise AI platforms. I'm passionate about building scalable AI systems, optimizing ML models, and solving complex problems through innovative technology.
+Currently a **Software Engineer (Azure OpenAI)** at **Microsoft**, working on model evaluation systems and AI serving pipelines powering Copilot and Azure OpenAI services. Previously worked as a **Software Engineer (AI Solutions) at GEICO**, building production-grade LLM backend services and enterprise AI platforms.
 
-- 🔭 Currently working on: **LLM Backend Services**, **AI Infrastructure**, and **Enterprise AI Platforms**
+I’m passionate about building scalable AI systems, optimizing ML models, and solving complex problems through innovative technology.
+
+- 🔭 Currently working on: **LLM Evaluation Systems**, **AI Infrastructure**, and **Enterprise AI Platforms**
 - 🎓 M.S. in Computer Science with Secondary in AI (Florida Atlantic University, GPA: 3.96/4.0)
 - 🏆 Hugging Face Hackathon Winner | Gangal Family Endowed Scholarship Award Recipient
 - 💡 Expertise: LLMs, Vector Databases, Cloud Infrastructure, Full-Stack Development
-- 📍 Based in: Bethesda, Maryland
+- 📍 Based in: Redmond, Washington.
 - 📫 Reach me at: **chilukalagayathri@gmail.com**
-
 ---
 
 ## 💼 Professional Experience
+
+### Software Engineer – Azure OpenAI @ Microsoft | May 2026 – Present
 
 ### Software Engineer (AI Solutions) @ GEICO | January 2025 – May 2025
 
